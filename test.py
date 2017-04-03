@@ -26,7 +26,7 @@ print(sum_1 + sum_2)
 
 hours = int(input ('Please, enter your work hours ' ))
 rate = int(input ('Please, enter your rate ' ))
-#pay = hours * rate # Wrong!
+#pay = hours * rate # Wrong! ...
 pay = str(hours * rate)
 #print(pay)
 print('Your pay is ' + pay)
