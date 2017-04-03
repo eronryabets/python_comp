@@ -10,7 +10,7 @@
 
 #prefix = "Hi, "
 prefix = "Hi"
-name = input ('Please, enter a name')
+
 #print("Hi ", name)
 #print('Hi, ', name, sep='')
 #print(prefix + name)
