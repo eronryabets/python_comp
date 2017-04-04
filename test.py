@@ -23,10 +23,11 @@ print(sum_1 + sum_2)
 #print(str(33) + str(pay))
 
 """ Calc of salary """
-
+"""
 hours = int(input ('Please, enter your work hours ' ))
 rate = int(input ('Please, enter your rate ' ))
 #pay = hours * rate # Wrong! ...
 pay = str(hours * rate)
 #print(pay)
 print('Your pay is ' + pay)
+"""
